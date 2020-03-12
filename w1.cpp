@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-const int ROWS = 10;  // Ряд
+const int ROWS = 10;  // Ряд add commit 1
 const int COLS = 10; // Столб (элементы строки)
 
 
